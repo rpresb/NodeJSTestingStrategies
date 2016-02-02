@@ -1,0 +1,25 @@
+{
+  "name": "nodejstestingstrategies",
+  "version": "1.0.0",
+  "description": "[Mocha](https://mochajs.org/)\r ```Shell\r npm install mocha -g\r ```",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.11.1"
+  },
+  "devDependencies": {
+    "sinon": "^1.17.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpresb/NodeJSTestingStrategies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpresb/NodeJSTestingStrategies/issues"
+  },
+  "homepage": "https://github.com/rpresb/NodeJSTestingStrategies#readme"
+}
